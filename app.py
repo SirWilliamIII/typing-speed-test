@@ -1,6 +1,5 @@
 from tkinter import messagebox
 from faker import Faker
-import random
 import tkinter as tk
 
 TIME_UP = False
